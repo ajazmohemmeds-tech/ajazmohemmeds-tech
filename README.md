@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+## Hi 👋 My name is AJAZ
+## AI Engineer
 🚀 Building AI-driven products & smart automation experiences<br>🤝 Open to collaborations in AI, startups, and creative tech<br>🧠 Exploring Machine Learning, IoT, and system design<br>💬 Let’s talk about AI, design, or anything innovative<br>⚡ I blend tech with aesthetics to create premium experiences
 
 
