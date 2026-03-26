@@ -1,7 +1,7 @@
 ## Hi 👋 My name is AJAZ
 ## AI Engineer
-I'm based in India
-See my Portfolio at [Visit Here](https://ajazmohemmeds-tech.github.io/portfolio/)
+📍 I'm based in India 
+🌐 See my Portfolio at [Visit Here](https://ajazmohemmeds-tech.github.io/portfolio/)
 
 
 ## 🌐 Socials:
